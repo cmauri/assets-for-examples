@@ -1,0 +1,5 @@
+*.html
+*.py
+*.sh
+band_entry*.json
+.idea
